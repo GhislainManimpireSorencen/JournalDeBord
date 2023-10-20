@@ -1,20 +1,18 @@
-# Entrée 3
-## Plan de carrière
-
 ### Présentation
-Parlez de vous. 
+Je suis un homme réservé, mais pas opposé è l'idée de travailler en groupe. J'aime quand tout est à sa place et je suis quelque peu
 
 ### Intérêts dans le domaine
-Parlez de vos intérêts en multimédia. 
+J'aime bien le web et la modélisation (qu'elle soit 2d ou 3d)
 
 ### Emplois qui vous intéressent
-Nommez deux emplois.
+Designer graphique et programmeur web
 
 ### Identification
-Nommez une entreprise et un artiste auxquels vous vous identifiez et expliquez pourquoi. 
+-Agence Web Montréal car la partie web du programme est celle qui m'intéresse le plus
+-le groupe de SPACE EXPLORERS: L'INFINI car l'espace est un domaine que j'apprécie
 
 ### Dans 5 ans
-Où vous voyez-vous dans 5 ans? 
+Je me vois en train de travailler dans une compagnie de taille petite-moyenne comme employé polyvalent.
 
 ### Projets
-Expliquez un ou des projets que vous aimeriez faire. 
+Un projet incluant des combats en réalité virtuelle
