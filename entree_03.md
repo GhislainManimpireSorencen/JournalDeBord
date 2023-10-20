@@ -1,5 +1,5 @@
 ### Présentation
-Je suis un homme réservé, mais pas opposé è l'idée de travailler en groupe. J'aime quand tout est à sa place et je suis quelque peu
+Je suis un homme réservé, mais pas opposé  l'idée de travailler en groupe. J'aime quand tout est à sa place et je suis quelque peu
 
 ### Intérêts dans le domaine
 J'aime bien le web et la modélisation (qu'elle soit 2d ou 3d)
