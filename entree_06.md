@@ -1,15 +1,8 @@
-# Entrée 6
-## Analyse critique d'une oeuvre
-
-L’objectif de cet exercice est de développer une opinion sur une œuvre multimédia. Pour l’analyse, choisissez l’une des œuvres que nous avons visitées. 
-
-Entre 300 et 400 mots. 
-
 ### Description
-Décrivez l'oeuvre. Quelles étaient les composantes de l'installation? Comment était-elle réalisée techniquement? 
+L'oeuvre était un escape game. Le but de celui que j'ai fait était de prépaper la maison de Bernie avant que la fille qui lui plait arrive. Elle était composé de deux salles: une représentant le salon couplé de la cuisine et une représentant la salle de bain. Plusieurs éléments du décor étaient fait en lego géants. Il y avait 4 écrans. Deux d'entre eux servaient à diffuser des messages qui se lançaient à la fin de chaque étape. Un (le plus grnad) diffusait le message du début qui établissait le contexte de escape game. Le dernier écran était lié à une énigme avec un poisson et faisait apparaitre des poissons qui bouge quand celle-ci était réusssie. La porte reliant les deux pièces s'ouvrait avec un méchanisme (que je ne saurai identifier) lorsqu'une certaine énigme était résolue.
 
 ### Opinion
-Donnez votre opinion sur l'oeuvre que nous avons visitée. Vous a-t-elle plu? Ou pas du tout? Pourquoi? Est-ce que certains aspects vous ont plus touchés que d'autres? 
+J'ai trouvé mon expérience banale. Je n'ai pas été suffisament diverti par cet escape game pour une principale raison. Une d'entre elles concerne la difficulté et le ton. L'escape gme était très facile et mon équipe n'a eu aucun mal à résoudre les énigmes. De plus, le ton était extremement léger, réduisant mon immersion et mon investissement. Cependant, le sentiment de résoudre une énigme est toujours agréable et a rendu mon expérience correcte.
 
 ### Analyse critique
-Qu'est-ce qui pourrait être modifié dans cette oeuvre? 
+Je pense qu'une des solutions est mal amené. Elle consistait à sentir une odeur venant de pots fermés. Cependant, cette odeur n'est pas très forte et il est nécesssaire de s'approcher pour la détecter. Rien n'indiquait qu'il fallait sentir ses pots. De plus, quelqu'un qui fait des escape game régulièrement utilisera peut-etre tous ses sens pour trouver la solution, mais un débutant comme moi n'a pas ce réflexe. Compte tenu de la difficultém cet escape game est clairement destiné aux débutans ou aux plus jeunes. Je pense que placer une indication parfum résoudrait le problème.
